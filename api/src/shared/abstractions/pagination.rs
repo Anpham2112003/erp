@@ -1,4 +1,6 @@
-use crate::shared::abstractions::dtos::dto::Dto;
+
+use crate::shared::abstractions::dto::Dto;
+
 
 
 pub struct OffsetPagination<T:Dto> {
