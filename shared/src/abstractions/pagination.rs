@@ -1,5 +1,5 @@
 
-use crate::shared::abstractions::dto::Dto;
+use crate::abstractions::dto::Dto;
 
 
 

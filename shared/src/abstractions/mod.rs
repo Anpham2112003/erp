@@ -5,3 +5,4 @@ pub mod domain_event;
 pub mod dto;
 pub mod entity;
 pub mod unit_of_work;
+pub mod integration_event;

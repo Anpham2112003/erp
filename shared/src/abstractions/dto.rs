@@ -1,5 +1,6 @@
+use crate::abstractions::entity::Entity;
 
-use crate::shared::abstractions::entity::Entity;
+
 
 
 pub trait Dto {

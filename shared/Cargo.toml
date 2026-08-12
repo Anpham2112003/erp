@@ -1,9 +1,9 @@
 [package]
-name = "api"
+name = "shared"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-entity={path="../entity"}
+async-trait.workspace = true
 sea-orm.workspace = true
 tokio.workspace = true

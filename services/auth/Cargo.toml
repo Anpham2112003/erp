@@ -1,0 +1,14 @@
+[package]
+name = "auth"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+entity={path="./entity"}
+shared={path="../../shared"}
+
+sea-orm.workspace = true
+tokio.workspace = true
+chrono.workspace = true 
+async-trait.workspace = true

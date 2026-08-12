@@ -1,8 +1,4 @@
-
-use crate::shared::abstractions::entity::Entity;
-
-
-
+use shared::abstractions::entity::Entity;
 pub struct Account {
     
 }
